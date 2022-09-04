@@ -1,0 +1,15 @@
+/Users/mallorydaniel/Projects/csharpapp/bin/Debug/net6.0/csharpapp
+/Users/mallorydaniel/Projects/csharpapp/bin/Debug/net6.0/csharpapp.deps.json
+/Users/mallorydaniel/Projects/csharpapp/bin/Debug/net6.0/csharpapp.runtimeconfig.json
+/Users/mallorydaniel/Projects/csharpapp/bin/Debug/net6.0/csharpapp.dll
+/Users/mallorydaniel/Projects/csharpapp/bin/Debug/net6.0/csharpapp.pdb
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.csproj.AssemblyReference.cache
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.AssemblyInfoInputs.cache
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.AssemblyInfo.cs
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.csproj.CoreCompileInputs.cache
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.dll
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/refint/csharpapp.dll
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.pdb
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/csharpapp.genruntimeconfig.cache
+/Users/mallorydaniel/Projects/csharpapp/obj/Debug/net6.0/ref/csharpapp.dll
